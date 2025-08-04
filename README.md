@@ -1,3 +1,14 @@
+# ⚠️ This Repository Has Been Migrated
+
+This project is **no longer maintained** in this repository.
+
+> ✅ It has been **migrated to a new repository maintained by the gasfree.io developer community**:  
+👉 [https://github.com/gasfreeio/gasfree-sdk-swift](https://github.com/gasfreeio/gasfree-sdk-swift)
+
+All future updates, issues, and contributions should be directed to the new repository.
+
+---
+
 # tronlink-gasfree-sdk-swift
 
 tronlink-gasfree-sdk-swift is a toolkit developed by TronLink based on the GasFree API specification. It facilitates the integration of the non-gas TRC20 token transfer service for the iOS platform.
